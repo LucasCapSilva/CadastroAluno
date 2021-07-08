@@ -19,7 +19,7 @@ import generation.org.blogPessoal.model.Postagem;
 import generation.org.blogPessoal.repository.PostagemRepository;
 
 @RestController
-@RequestMapping("/postagens")
+@RequestMapping("/estudantes")
 @CrossOrigin(origins = "*", allowedHeaders = "*")
 public class PostagemController {
 	
